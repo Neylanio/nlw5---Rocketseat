@@ -1,7 +1,8 @@
 # Back-end Chat bot
 
-* Techs:
-** NodeJS
-** Typescript
-** ExpressJs
-** Socket.io
+## __Techs__
+
+> * ### NodeJS
+> * ### Typescript
+> * ### ExpressJS
+> * ### Socket.io
