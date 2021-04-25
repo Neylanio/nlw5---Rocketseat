@@ -16,6 +16,7 @@ class MessagesService {
   }
 
   async create({ admin_id, text, user_id }: IMessageCreate) {
+    console.log(admin_id)
     const message = this.messagesRepository.create({
       admin_id,
       text,

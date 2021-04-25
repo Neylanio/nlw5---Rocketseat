@@ -7,6 +7,12 @@
 > * ### ExpressJS
 > * ### Web Socket
 
+### DayJS lib
+* ### https://github.com/iamkun/dayjs
+
+### Mustache lib
+* ### https://github.com/janl/mustache.js
+
 ### Socket.io lib
 * ### https://github.com/socketio/socket.io
 
