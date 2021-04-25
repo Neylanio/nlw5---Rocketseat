@@ -20,7 +20,7 @@ app.get('/pages/client', (request, response) => {
 const http = createServer(app)
 const io = new Server(http)
 
-io.on('connect', (socket: Socket) => {
+io.on('connection', (socket: Socket) => {
   console.log('Se conectou', socket.id)
 })
 
